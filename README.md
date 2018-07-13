@@ -1,4 +1,4 @@
-# BLE-indoor-positioning
+# BLE-based-indoor-positioning
 It's the code of BLE indoor positionig
 In our project, we have make an idea, whether if we can apply IoT scenario into hospital 
 to better connect patients, hospital crews and medical assets together. The valuable 
