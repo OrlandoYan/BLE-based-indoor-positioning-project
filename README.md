@@ -13,9 +13,15 @@ In this project, I have used two scenarios to achieve the indoor positioning, th
 is based on logarithmic fading propagation model with filter algorithm to achieve the 
 triangular indoor positioning, the second one is by using a RSSI comparing alogrithm to
 achieve the room level positioning.
-The brief explanation of the project:
+
+###The brief explanation of the project:
+
 ![Header](https://github.com/OrlandoYan/BLE-based-indoor-positioning-project/blob/master/hh.png )
-The whole project structure:
+
+###The whole project structure:
+
 ![The project structure](https://github.com/OrlandoYan/BLE-based-indoor-positioning-project/blob/master/1.png)
-The hardware used:
+
+###The hardware used:
+
 ![The hardware used](https://github.com/OrlandoYan/BLE-based-indoor-positioning-project/blob/master/2.png)
