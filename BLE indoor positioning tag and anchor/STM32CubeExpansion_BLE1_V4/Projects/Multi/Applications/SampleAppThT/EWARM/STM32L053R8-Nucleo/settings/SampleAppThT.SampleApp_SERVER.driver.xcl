@@ -1,0 +1,25 @@
+"--endian=little" 
+
+"--cpu=Cortex-M0+" 
+
+"--fpu=None" 
+
+"-p" 
+
+"E:\通信资料\USYD Postgraduate Project\Thesis\IAR-ARM\Workbench\arm\CONFIG\debugger\ST\STM32L053R8.ddf" 
+
+"--semihosting" 
+
+"--device=STM32L053R8" 
+
+"--drv_interface=SWD" 
+
+"--stlink_reset_strategy=0,2" 
+
+"--drv_swo_clock_setup=32000000,0,2000000" 
+
+"--drv_catch_exceptions=0x000" 
+
+
+
+

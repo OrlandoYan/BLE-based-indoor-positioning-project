@@ -1,0 +1,13 @@
+"E:\通信资料\USYD Postgraduate Project\Thesis\IAR-ARM\Workbench\arm\bin\armproc.dll" 
+
+"E:\通信资料\USYD Postgraduate Project\Thesis\IAR-ARM\Workbench\arm\bin\armstlink2.dll" 
+
+"E:\通信资料\USYD Postgraduate Project\Thesis\en.X-CUBE-BLE1\STM32CubeExpansion_BLE1_V3.0.0\Projects\Multi\Applications\SampleAppThT\EWARM\STM32L053R8-Nucleo\SampleApp_SERVER\Exe\SampleApp_SERVER.out" 
+
+--plugin "E:\通信资料\USYD Postgraduate Project\Thesis\IAR-ARM\Workbench\arm\bin\armbat.dll" 
+
+--flash_loader "E:\通信资料\USYD Postgraduate Project\Thesis\IAR-ARM\Workbench\arm\config\flashloader\ST\FlashSTM32L0xxx8.board" 
+
+
+
+
