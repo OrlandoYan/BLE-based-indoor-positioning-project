@@ -25,3 +25,25 @@ achieve the room level positioning.
 *The hardware used:
 
 ![The hardware used](https://github.com/OrlandoYan/BLE-based-indoor-positioning-project/blob/master/2.png)
+
+*Role of the device:
+![The Role of the device](https://github.com/OrlandoYan/BLE-based-indoor-positioning-project/blob/master/3.png)
+
+*Positioning structure:
+![Positioning structure](https://github.com/OrlandoYan/BLE-based-indoor-positioning-project/blob/master/4.png)
+
+*Flowchart of the code:
+![Flowchart of the code1](https://github.com/OrlandoYan/BLE-based-indoor-positioning-project/blob/master/5.png)
+![Flowchart of the code2](https://github.com/OrlandoYan/BLE-based-indoor-positioning-project/blob/master/6.png)
+![Flowchart of the code3](https://github.com/OrlandoYan/BLE-based-indoor-positioning-project/blob/master/7.png)
+
+*Algorithm:
+![Algorithm1](https://github.com/OrlandoYan/BLE-based-indoor-positioning-project/blob/master/8.png)
+![Algorithm2](https://github.com/OrlandoYan/BLE-based-indoor-positioning-project/blob/master/9.png)
+![Algorithm3](https://github.com/OrlandoYan/BLE-based-indoor-positioning-project/blob/master/10.png)
+![Algorithm4](https://github.com/OrlandoYan/BLE-based-indoor-positioning-project/blob/master/11.png)
+
+*Result:
+![Result](https://github.com/OrlandoYan/BLE-based-indoor-positioning-project/blob/master/12.png)
+
+
