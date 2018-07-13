@@ -14,7 +14,7 @@ is based on logarithmic fading propagation model with filter algorithm to achiev
 triangular indoor positioning, the second one is by using a RSSI comparing alogrithm to
 achieve the room level positioning.
 
-###The brief explanation of the project:
+<br>he brief explanation of the project:</br>
 
 ![Header](https://github.com/OrlandoYan/BLE-based-indoor-positioning-project/blob/master/hh.png )
 
