@@ -1,20 +1,7 @@
 # BLE-based-indoor-positioning
-It's the code of BLE indoor positionig
-In our project, we have make an idea, whether if we can apply IoT scenario into hospital 
-to better connect patients, hospital crews and medical assets together. The valuable 
-information, such as location, thermal, humidity, posture and emotion, etc, of them can 
-be easily accessed from each other. In this case, we will not worry about some issues 
-such as, the patient and doctor do not know the real time locations of themselves or 
-each other. Also, the doctor can remotely monitor the patients’ physical conditions, and 
-when there is some problem happen, they can take action timely. 
-The code includes Tag and Anchor part, the tag is the device attached to the person to whom
-we want to know his or her position.
-In this project, I have used two scenarios to achieve the indoor positioning, the first one
-is based on logarithmic fading propagation model with filter algorithm to achieve the 
-triangular indoor positioning, the second one is by using a RSSI comparing alogrithm to
-achieve the room level positioning.
+The code pertains to BLE indoor positioning. In our project, we conceived an idea to integrate the IoT scenario into hospitals. This would enhance connectivity among patients, hospital staff, and medical assets. Valuable information like location, temperature, humidity, posture, and emotions of individuals can be seamlessly shared and accessed. With such a system in place, we can eliminate concerns like patients and doctors being unaware of each other's real-time locations. Moreover, doctors can remotely monitor patients' physical conditions. Should any issues arise, timely interventions can be made. The code comprises both Tag and Anchor parts. The tag refers to the device attached to an individual whose position we want to determine. In this project, I employed two strategies for indoor positioning: the first utilizes a logarithmic fading propagation model combined with a filter algorithm for triangulation-based positioning. The second leverages an RSSI comparison algorithm for room-level positioning.
 
-*The brief explanation of the project:
+A brief explanation of the project:
 
 ![Header](https://github.com/OrlandoYan/BLE-based-indoor-positioning-project/blob/master/hh.png )
 
